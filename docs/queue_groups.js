@@ -1,7 +1,7 @@
 const QUEUE_GROUPS = [
     {
         "id": "0",
-        "name": "Custom (Not Supported)",
+        "name": "Custom",
         "group": "Other"
     },
     {
